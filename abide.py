@@ -23,4 +23,4 @@ def quote(request):
     except:
         return "[I AM THE WALRUS?]"
 
-run_itty()
+run_itty(server='appengine')

@@ -3,6 +3,8 @@ Install
 
 virtualenv --no-site-packages ve
 
+source ve/bin/activate
+
 easy_install pip
 
 pip install -r requirements.pip
