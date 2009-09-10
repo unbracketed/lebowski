@@ -1,5 +1,5 @@
 import random
-from itty import *
+from itty import get, run_itty
 from haiku import HAIKUS, FIVES, SEVENS
 from quotes import QUOTES
 
